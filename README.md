@@ -1,5 +1,5 @@
 # quantum_networks_PCS
-Error detection for quantum networks. Data for publication:\  
+Error detection for quantum networks. Data for publication:  
 Detecting Errors in a Quantum Network with Pauli Checks\
 https://arxiv.org/abs/2405.15236\
 
